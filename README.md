@@ -28,11 +28,34 @@ I believe that consistency, curiosity, and practice are the foundations of becom
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Tech Focus
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 📅 Coding Mindset
+
+- Learn → Build → Break → Fix → Repeat 🔁  
+- Every bug is a lesson 🧠  
+- Consistency beats talent ⚡  
+- Small progress every day = big result 🚀  
+
+---
+
+## ✨ Quote
+
+> "Success is the sum of small efforts repeated day in and day out."
 
 ---
 
