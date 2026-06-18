@@ -27,6 +27,14 @@
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -65,15 +73,11 @@
 
 ## 🎯 Current Focus
 
-✔ Problem Solving
-
-✔ Data Structures & Algorithms
-
-✔ Writing Clean and Efficient Code
-
-✔ Strengthening Core Computer Science Concepts
-
-✔ Continuous Learning
+✔ Problem Solving  
+✔ Data Structures & Algorithms  
+✔ Writing Clean and Efficient Code  
+✔ Strengthening Core Computer Science Concepts  
+✔ Continuous Learning  
 
 ---
 
