@@ -1,84 +1,80 @@
-<h1 align="center">Hi 👋, I'm Atikur Rahman Milon</h1>
+## 💭 What Drives Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Enthusiast;Problem+Solver;Learning+Data+Structures+%26+Algorithms;Exploring+Software+Development;Passionate+About+Programming;Always+Learning+New+Things" />
-</p>
+I enjoy breaking down complex problems into smaller, manageable parts and finding efficient solutions through logic and programming.
 
----
+My journey in Computer Science is focused on understanding how things work behind the scenes, strengthening my problem-solving abilities, and continuously improving my coding skills.
 
-## 🚀 About Me
-
-💻 Passionate about Programming and Computer Science
-
-🧠 Focused on developing strong problem-solving and analytical thinking skills
-
-📚 Currently exploring:
-
-- Programming Fundamentals
-- C++
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Standard Template Library (STL)
-- Git & GitHub
-- Software Development Principles
-
-🎯 Building a strong foundation for advanced software engineering concepts
+I believe that consistency, curiosity, and practice are the foundations of becoming a great developer.
 
 ---
 
-## 🛠️ Languages & Tools
+## 📚 Areas of Interest
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux" />
-</p>
+🔹 Algorithms
 
----
+🔹 Data Structures
 
-## 📊 GitHub Stats
+🔹 Problem Solving
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atikur-Rahman-Milon14&show_icons=true&rank_icon=github" />
-</p>
+🔹 Software Engineering
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikur-Rahman-Milon14&layout=compact" />
-</p>
+🔹 Computer Science Fundamentals
+
+🔹 System Design (Future Learning Goal)
+
+🔹 Machine Learning (Future Learning Goal)
 
 ---
 
-## 🔥 Contribution Streak
+## 🏆 Learning Objectives
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atikur-Rahman-Milon14" />
-</p>
+✓ Master Programming Fundamentals
 
----
+✓ Strengthen Algorithmic Thinking
 
-## 📈 Activity Graph
+✓ Write Clean and Maintainable Code
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atikur-Rahman-Milon14" />
-</p>
+✓ Improve Debugging Skills
 
----
+✓ Contribute to Open Source Projects
 
-## 🎯 Current Focus
+✓ Build Meaningful Projects
 
-✔ Problem Solving
-
-✔ Data Structures & Algorithms
-
-✔ Writing Clean and Efficient Code
-
-✔ Strengthening Core Computer Science Concepts
-
-✔ Continuous Learning
+✓ Continuously Learn New Technologies
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atikur-Rahman-Milon14&margin-w=15" />
-</p>
+## ⚡ Fun Facts
 
-<h3 align="center">⭐ Keep Learning • Keep Building • Keep Growing ⭐</h3>
+🔹 I enjoy solving programming challenges.
+
+🔹 I believe every bug teaches something valuable.
+
+🔹 I love learning how technology works internally.
+
+🔹 I am always looking for ways to improve my coding skills.
+
+---
+
+## 📖 Quote I Follow
+
+> "Success is the sum of small efforts repeated day in and day out."
+
+---
+
+## 📅 Coding Journey
+
+```text
+Started Programming      ████████████░░░░░░░░░░
+Problem Solving          ██████████░░░░░░░░░░░
+Data Structures          ████████░░░░░░░░░░░░
+Algorithms               ███████░░░░░░░░░░░░░
+Software Development     █████░░░░░░░░░░░░░░░
+Advanced CS Concepts     ██░░░░░░░░░░░░░░░░░░
+```
+
+---
+
+## 🌟 Personal Motto
+
+Learn. Practice. Improve. Repeat.
