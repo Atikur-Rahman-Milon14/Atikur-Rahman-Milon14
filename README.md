@@ -1,80 +1,59 @@
-## 💭 What Drives Me
+## 💭 What Drives Me ✨
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Breaking+Problems+into+Smaller+Parts;Love+Clean+Code+%26+Logic;Always+Learning+New+Things)
 
 I enjoy breaking down complex problems into smaller, manageable parts and finding efficient solutions through logic and programming.
 
-My journey in Computer Science is focused on understanding how things work behind the scenes, strengthening my problem-solving abilities, and continuously improving my coding skills.
+---
 
-I believe that consistency, curiosity, and practice are the foundations of becoming a great developer.
+## 📊 Coding Progress
+
+![Programming](https://progress-bar.dev/70/?title=Programming%20Fundamentals)
+![DSA](https://progress-bar.dev/55/?title=Data%20Structures)
+![Algorithms](https://progress-bar.dev/40/?title=Algorithms)
+![Software Dev](https://progress-bar.dev/30/?title=Software%20Development)
+![System Design](https://progress-bar.dev/15/?title=System%20Design)
 
 ---
 
-## 📚 Areas of Interest
+## ⚡ Coding Journey
 
-🔹 Algorithms
-
-🔹 Data Structures
-
-🔹 Problem Solving
-
-🔹 Software Engineering
-
-🔹 Computer Science Fundamentals
-
-🔹 System Design (Future Learning Goal)
-
-🔹 Machine Learning (Future Learning Goal)
+![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🏆 Learning Objectives
+## 🧠 Areas of Interest
 
-✓ Master Programming Fundamentals
-
-✓ Strengthen Algorithmic Thinking
-
-✓ Write Clean and Maintainable Code
-
-✓ Improve Debugging Skills
-
-✓ Contribute to Open Source Projects
-
-✓ Build Meaningful Projects
-
-✓ Continuously Learn New Technologies
+- Algorithms ⚡
+- Data Structures 🧱
+- Problem Solving 🧩
+- Software Engineering 💻
+- Computer Science Fundamentals 📚
+- System Design (future goal 🚀)
+- Machine Learning (future goal 🤖)
 
 ---
 
-## ⚡ Fun Facts
+## 🚀 Learning Mode
 
-🔹 I enjoy solving programming challenges.
+![Focus GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-🔹 I believe every bug teaches something valuable.
-
-🔹 I love learning how technology works internally.
-
-🔹 I am always looking for ways to improve my coding skills.
-
----
-
-## 📖 Quote I Follow
-
-> "Success is the sum of small efforts repeated day in and day out."
-
----
-
-## 📅 Coding Journey
-
-```text
-Started Programming      ████████████░░░░░░░░░░
-Problem Solving          ██████████░░░░░░░░░░░
-Data Structures          ████████░░░░░░░░░░░░
-Algorithms               ███████░░░░░░░░░░░░░
-Software Development     █████░░░░░░░░░░░░░░░
-Advanced CS Concepts     ██░░░░░░░░░░░░░░░░░░
-```
+- Master Fundamentals  
+- Write Clean Code  
+- Debug Like a Pro 🐛  
+- Build Real Projects  
+- Open Source Contribution  
 
 ---
 
 ## 🌟 Personal Motto
 
-Learn. Practice. Improve. Repeat.
+> Learn. Practice. Improve. Repeat.
+
+![Loop GIF](https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif)
+
+---
+
+## 🔥 GitHub Stats (optional)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
