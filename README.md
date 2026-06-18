@@ -1,49 +1,108 @@
 <h1 align="center">Hi 👋, I'm Atikur Rahman Milon</h1>
 
 <p align="center">
-  A passionate learner focused on building a strong foundation in Computer Science,
-  problem solving, and software development.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=CSE+Fundamentals+Student;Problem+Solver;Learning+Data+Structures+%26+Algorithms;Passionate+About+Computer+Science;Building+Strong+Programming+Foundations;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atikur-Rahman-Milon14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Currently enrolled in the CSE Fundamentals program at Phitron.
+🎓 Currently enrolled in the **Phitron CSE Fundamentals Program**
 
-📚 Learning core Computer Science concepts including programming fundamentals,
-data structures, algorithms, object-oriented programming, and problem-solving techniques.
+📚 Learning and strengthening core Computer Science concepts
 
-🧠 Dedicated to developing strong analytical thinking and logical reasoning skills
-through consistent coding practice and algorithmic challenges.
+🧠 Improving logical thinking and analytical problem-solving skills
 
-🚀 Passionate about technology and continuously exploring new concepts to strengthen
-my understanding of software development and computer science.
+💻 Practicing programming regularly and exploring new technologies
 
-🎯 My goal is to build a solid technical foundation that will help me grow into a
-skilled software engineer and lifelong learner.
+🚀 Passionate about Software Development and Continuous Learning
+
+🎯 Goal: Build a strong foundation in Computer Science and become a skilled Software Engineer
 
 ---
 
-## 🛠️ Current Focus
+## 🌱 Current Learning Journey
 
 - Programming Fundamentals
 - Problem Solving
-- Data Structures & Algorithms
+- Data Structures
+- Algorithms
 - Object-Oriented Programming
+- STL (Standard Template Library)
+- Git & GitHub
 - Software Development Principles
-- Version Control with Git & GitHub
 
 ---
 
-## 📈 Learning Journey
+## 🛠️ Technologies & Tools
 
-I believe that strong fundamentals create great developers. My current focus is
-on mastering the core concepts of Computer Science, writing clean and efficient
-code, and improving my problem-solving abilities through continuous practice.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-GitHub: github.com/Atikur-Rahman-Milon14
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atikur-Rahman-Milon14&show_icons=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikur-Rahman-Milon14&layout=compact" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Atikur-Rahman-Milon14" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atikur-Rahman-Milon14" />
+</p>
+
+---
+
+## 💡 Philosophy
+
+> "Strong fundamentals create great developers."
+
+I believe that mastering the fundamentals of Computer Science, problem solving, and programming is the key to becoming a successful software engineer.
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master C++ Fundamentals
+
+✅ Improve Problem Solving Skills
+
+✅ Learn Data Structures & Algorithms
+
+✅ Build Strong Computer Science Foundations
+
+✅ Contribute More on GitHub
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Atikur-Rahman-Milon14">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
