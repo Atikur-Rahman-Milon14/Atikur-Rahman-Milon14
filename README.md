@@ -1,64 +1,84 @@
-<h1 align="center">💻 My Coding Journey</h1>
+<h1 align="center">Hi 👋, I'm Atikur Rahman Milon</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Problem+Solver;Clean+Code+Enthusiast;Future+Software+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Enthusiast;Problem+Solver;Learning+Data+Structures+%26+Algorithms;Exploring+Software+Development;Passionate+About+Programming;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 💭 What Drives Me
+## 🚀 About Me
 
-I enjoy breaking down complex problems into smaller, manageable parts and finding efficient solutions through logic and programming.
+💻 Passionate about Programming and Computer Science
 
-My journey in Computer Science is focused on understanding how things work behind the scenes, strengthening my problem-solving abilities, and continuously improving my coding skills.
+🧠 Focused on developing strong problem-solving and analytical thinking skills
 
-I believe that consistency, curiosity, and practice are the foundations of becoming a great developer.
+📚 Currently exploring:
+
+- Programming Fundamentals
+- C++
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Standard Template Library (STL)
+- Git & GitHub
+- Software Development Principles
+
+🎯 Building a strong foundation for advanced software engineering concepts
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atikur-Rahman-Milon14&show_icons=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikur-Rahman-Milon14&layout=compact" />
 </p>
 
 ---
 
-## ⚡ Tech Focus
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github" />
+  <img src="https://streak-stats.demolab.com?user=Atikur-Rahman-Milon14" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atikur-Rahman-Milon14" />
 </p>
 
 ---
 
-## 📅 Coding Mindset
+## 🎯 Current Focus
 
-- Learn → Build → Break → Fix → Repeat 🔁  
-- Every bug is a lesson 🧠  
-- Consistency beats talent ⚡  
-- Small progress every day = big result 🚀  
+✔ Problem Solving
 
----
+✔ Data Structures & Algorithms
 
-## ✨ Quote
+✔ Writing Clean and Efficient Code
 
-> "Success is the sum of small efforts repeated day in and day out."
+✔ Strengthening Core Computer Science Concepts
+
+✔ Continuous Learning
 
 ---
 
 <p align="center">
-  ✨ Keep building. Keep learning. Keep growing. ✨
+  <img src="https://github-profile-trophy.vercel.app/?username=Atikur-Rahman-Milon14&margin-w=15" />
 </p>
+
+<h3 align="center">⭐ Keep Learning • Keep Building • Keep Growing ⭐</h3>
