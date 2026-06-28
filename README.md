@@ -27,10 +27,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/2962FF/Atikur-Rahman-Milon14" alt="GitHub Contribution Chart" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ✔ Data Structures & Algorithms  
 ✔ Writing Clean and Efficient Code  
 ✔ Strengthening Core Computer Science Concepts  
-✔ Continuous Learning  
+✔ Continuous Learning
 
 ---
 
