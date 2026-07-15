@@ -46,11 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atikur-Rahman-Milon14&show_icons=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikur-Rahman-Milon14&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atikur-Rahman-Milon14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikur-Rahman-Milon14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -58,7 +55,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atikur-Rahman-Milon14" />
+  <img src="https://streak-stats.demolab.com?user=Atikur-Rahman-Milon14&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +63,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atikur-Rahman-Milon14" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atikur-Rahman-Milon14&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +79,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atikur-Rahman-Milon14&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atikur-Rahman-Milon14&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 <h3 align="center">⭐ Keep Learning • Keep Building • Keep Growing ⭐</h3>
